@@ -1,2 +1,4 @@
 .idea/
 Git.iml
+*.DS_Store
+bin/
